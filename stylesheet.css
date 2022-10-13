@@ -1,0 +1,46 @@
+h1{
+color: white;
+background-color: black;
+font-family: verdana;
+}
+
+.aboutPage{
+color: green;
+font-family: courier;
+}
+
+#uteid{
+color: purple;
+font-family: courier;
+}
+
+h3{
+width: 100px;
+border: 5px solid green;
+padding: 20px;
+margin: 2px;
+}
+
+h4{
+width: 100px;
+border: 5px solid blue;
+padding: 10px;
+margin: 2px;
+}
+
+
+a:link{
+color: red;
+}
+
+a:visited{
+color: red;
+}
+
+a:hover{
+color: green;
+}
+
+a:active{
+color: purple;
+}
